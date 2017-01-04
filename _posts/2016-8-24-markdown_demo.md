@@ -39,23 +39,41 @@ Attentions (放在开头)：
 # Kramdown Markdown Syntax
 
 # 1、Java基础
+
 ## 集合类库、泛型、反射等
+
 # 2、设计模式
+
 ## 设计模式、模块开发
+
 # 3、git&maven
+
 ## 代码管理，部署构建
+
 # 4、java开发框架
+
 ## spring+mybatis
+
 # 5、数据库和消息中间件
+
 ## mysql rabbitmq
+
 # 6、缓存和kv存储
+
 ## redis tair
+
 # 7、java故障排查
+
 ## jvm linux命令
+
 # 8、http反向代理
+
 ## Nginx
+
 # 9、搜索框架
+
 ## es
+
 
 ### H3
 #### H4
