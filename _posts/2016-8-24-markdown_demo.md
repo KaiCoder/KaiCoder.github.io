@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Markdown Demo
+title: Java后台开发技能栈
 categories: markdown
 date: 2017-01-04 12:38:11
 pid: 20160824-123811
 # you can override the settings in _config.yml here !!
 ---
 
-> 一个用来测试当前站点的Markdown样式的Demo
+> 
 
 {:use_numbered_headers => true}
 * auto-gen TOC:
@@ -38,14 +38,27 @@ Attentions (放在开头)：
 
 # Kramdown Markdown Syntax
 
-# H1
-
-## H2
+# 1、Java基础
+## 集合类库、泛型、反射等
+# 2、设计模式
+## 设计模式、模块开发
+# 3、git&maven
+## 代码管理，部署构建
+# 4、java开发框架
+## spring+mybatis
+# 5、数据库和消息中间件
+## mysql rabbitmq
+# 6、缓存和kv存储
+## redis tair
+# 7、java故障排查
+## jvm linux命令
+# 8、http反向代理
+## Nginx
+# 9、搜索框架
+## es
 
 ### H3
-
 #### H4
-
 ###### H5
 > \# 空格 TEXT or
 > \- - - -
