@@ -74,16 +74,11 @@ Attentions (放在开头)：
 
 ## es
 
-
-### H3
-#### H4
-###### H5
 > \# 空格 TEXT or
 > \- - - -
 > TEXT
 > \=====  or \-----
 
-## TOC
 If you create a list, and then set the toc attribute, when rendering Maruku will create an auto-generated table of contents(TOC). TOC was supported by Maruku, and Kramdown implements the Maruku so it also support TOC!
 
 > add following to the post
