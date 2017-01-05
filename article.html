@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>article list — {{ site.title }}</title>
+<title>列表—{{ site.title }}</title>
 {% include head.meta %}
 
 <style type="text/css">
@@ -228,8 +228,8 @@ a.white, a.white:hover, a.white:visited {
 	<div class="left-aside">
 		<div class="remark">
 			<a class="white" href="{{ site.base }}/"><h1>{{ site.title }}</h1></a>
-			<h3>Don't be afraid</h3>
-			<p>一步一个脚印</p>
+			<h3>Mail:dingkai0422@126.com</h3>
+			<p>后台开发工程师</p>
 		</div>
 		<div class="copyright">
 			<p>Thanks to <a class="light-white" href="https://github.com/">Github</a>, <a class="light-white" href="https://jekyllrb.com/">Jekyll</a> and <a class="light-white" href="https://github.com/KaiCoder/">KaiCoder</a></p>
@@ -238,7 +238,7 @@ a.white, a.white:hover, a.white:visited {
 	<div class="center-aside">
 		<div id="top-menu" class="top">
 			<ul class="nostyle category">
-						<li data="All"><a href="?category=">All</a></li>
+						<li data="All"><a href="?category=">全部</a></li>
 				{%comment%}通过liquid获取文件夹作为目录{%endcomment%}
 				{% include total-categories.liquid %}
 				{% for item in total-categories %}
