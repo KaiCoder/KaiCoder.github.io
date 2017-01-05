@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java后台开发技能栈
-categories: markdown
+categories: 技术
 date: 2017-01-04 12:38:11
 pid: 20160824-123811
 # you can override the settings in _config.yml here !!
